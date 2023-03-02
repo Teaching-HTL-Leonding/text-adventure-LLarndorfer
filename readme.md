@@ -3,7 +3,7 @@
 
 
 
-
+(./FloorPlan.svg)
 /////
 # Text Adventure
 
