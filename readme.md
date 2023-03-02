@@ -3,7 +3,7 @@
 
 
 
-(./FloorPlan.svg)
+![Catacombs of Paris](./mapv1.png)
 /////
 # Text Adventure
 
