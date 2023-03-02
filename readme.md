@@ -1,4 +1,4 @@
-### Changelogse
+### Changelogs
 02.03.2023 ```Added new map with new room (new Item) ```
 
 
