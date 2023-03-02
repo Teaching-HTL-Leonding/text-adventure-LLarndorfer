@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\bin\Debug\net7.0\041-text-adventure.exe
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\bin\Debug\net7.0\041-text-adventure.deps.json
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\bin\Debug\net7.0\041-text-adventure.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\bin\Debug\net7.0\041-text-adventure.dll
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\bin\Debug\net7.0\041-text-adventure.pdb
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.dll
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\refint\041-text-adventure.dll
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.pdb
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\041-text-adventure.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\041-text-adventure\obj\Debug\net7.0\ref\041-text-adventure.dll
